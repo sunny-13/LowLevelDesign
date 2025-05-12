@@ -1,0 +1,8 @@
+For any LLD question :
+
+YOU GET THE QUESTION :
+    1. First of all try to give the basic flow and requirement on your understanding. Make it as simple as it gets. Get confirmation.
+    2. Design basic objects/classes that will be there. And define relationships : is-a / has-a.
+    3. Think of the design patterns sub-type : Creational / Behavioral / Structural. And think what can be implemented here.
+        (This should be mostly in mind and affirmative things should be only out loud)
+        /* TODO : List all of the major, most common design patterns from each category after studying. */
