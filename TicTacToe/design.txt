@@ -1,0 +1,11 @@
+CLASSES
+
+Players :
+    props : Symbol, Name
+    methods : makeMove()
+Symbol : X / O / EMPTY
+GameGrid :
+    props : List<List<Symbol>> matrix (intialised with all symbols as EMPTY),
+GameEngine :
+    methods :
+
